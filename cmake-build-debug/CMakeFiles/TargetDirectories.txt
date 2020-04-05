@@ -1,0 +1,3 @@
+C:/Users/leora/CLionProjects/RIP_DZ01/cmake-build-debug/CMakeFiles/RIP_DZ01.dir
+C:/Users/leora/CLionProjects/RIP_DZ01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leora/CLionProjects/RIP_DZ01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
